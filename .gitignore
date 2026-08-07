@@ -1,0 +1,11 @@
+.DS_Store
+*.dmg
+*.msi
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*.apk
+*.aab
+dist/
+build/
