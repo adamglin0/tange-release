@@ -1,17 +1,17 @@
 {
   "platforms": {
     "macos-arm64": {
-      "version": "1.0.1-alpha01",
-      "notes": "Decode 1.0.1-alpha01 — first alpha for macos-arm64 in-app updates",
-      "publishedAt": "2026-08-07T08:47:38Z",
+      "version": "1.0.1-alpha02",
+      "notes": "Decode 1.0.1-alpha02 \u2014 in-app update UI and download track for macos-arm64",
+      "publishedAt": "2026-08-08T01:39:00Z",
       "mandatory": false,
-      "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha01/Decode-1.0.1-alpha01-macos-arm64.dmg",
-      "sha256": "1ea9a77dc567bf7db791bc701f57e0ee800a783efcfa4218fec1879eed91e5ac",
-      "size": 115503664
+      "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha02/Decode-1.0.1-alpha02-macos-arm64.dmg",
+      "sha256": "d3e295435d406642a8b354c0e5b21d002cd6627cf7ff2cd131d10d312c81d588",
+      "size": 115645462
     },
     "macos-x64": {
       "version": "0.0.0",
-      "notes": "bootstrap — no release yet",
+      "notes": "bootstrap \u2014 no release yet",
       "publishedAt": "2026-08-07T00:00:00Z",
       "mandatory": false,
       "url": "",
@@ -20,7 +20,7 @@
     },
     "windows-x64": {
       "version": "0.0.0",
-      "notes": "bootstrap — no release yet",
+      "notes": "bootstrap \u2014 no release yet",
       "publishedAt": "2026-08-07T00:00:00Z",
       "mandatory": false,
       "url": "",
@@ -29,7 +29,7 @@
     },
     "linux-x64": {
       "version": "0.0.0",
-      "notes": "bootstrap — no release yet",
+      "notes": "bootstrap \u2014 no release yet",
       "publishedAt": "2026-08-07T00:00:00Z",
       "mandatory": false,
       "url": "",
