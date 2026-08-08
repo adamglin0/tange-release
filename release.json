@@ -1,13 +1,13 @@
 {
   "platforms": {
     "macos-arm64": {
-      "version": "1.0.1-alpha02",
-      "notes": "Decode 1.0.1-alpha02 \u2014 in-app update UI and download track for macos-arm64",
-      "publishedAt": "2026-08-08T01:39:00Z",
+      "version": "1.0.1-alpha03",
+      "notes": "Decode 1.0.1-alpha03 \u2014 macos-arm64",
+      "publishedAt": "2026-08-08T01:50:54Z",
       "mandatory": false,
-      "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha02/Decode-1.0.1-alpha02-macos-arm64.dmg",
-      "sha256": "d3e295435d406642a8b354c0e5b21d002cd6627cf7ff2cd131d10d312c81d588",
-      "size": 115645462
+      "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha03/Decode-1.0.1-alpha03-macos-arm64.dmg",
+      "sha256": "53861baf44b6c52b57b393f8400d133cdbb212a7d5d251c12b1a6a57e62661b7",
+      "size": 115503464
     },
     "macos-x64": {
       "version": "0.0.0",
