@@ -1,40 +1,33 @@
 {
   "platforms": {
     "macos-arm64": {
-      "version": "1.0.1-alpha05",
-      "notes": "Decode 1.0.1-alpha05 \u2014 macos-arm64 silent zip update",
-      "publishedAt": "2026-08-08T03:08:43Z",
-      "mandatory": false,
-      "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha05/Decode-1.0.1-alpha05-mac-arm64.zip",
-      "sha256": "491a137e98f260a97dcd97946a830ca50b80b8fe267d40b82cbdd0209519ceb0",
-      "size": 115156551
+      "releases": [
+        {
+          "version": "1.0.1-alpha05",
+          "notes": "Decode 1.0.1-alpha05 — macos-arm64 silent zip update",
+          "publishedAt": "2026-08-08T03:08:43Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha05/Decode-1.0.1-alpha05-mac-arm64.zip",
+          "sha256": "491a137e98f260a97dcd97946a830ca50b80b8fe267d40b82cbdd0209519ceb0",
+          "size": 115156551
+        },
+        {
+          "version": "1.0.1-alpha06",
+          "notes": "Startup update checks, multi-release channels, verified downloads, and transactional installation",
+          "publishedAt": "2026-08-08T09:54:34Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha06/Decode-1.0.1-alpha06-mac-arm64.zip",
+          "sha256": "57ba6ced48927ba321bb787501aae57109effdb2b22db8be106a2e8ca33337d2",
+          "size": 108311029
+        }
+      ]
     },
     "macos-x64": {
-      "version": "0.0.0",
-      "notes": "bootstrap \u2014 no release yet",
-      "publishedAt": "2026-08-07T00:00:00Z",
-      "mandatory": false,
-      "url": "",
-      "sha256": "",
-      "size": 0
+      "releases": []
     },
     "windows-x64": {
-      "version": "0.0.0",
-      "notes": "bootstrap \u2014 no release yet",
-      "publishedAt": "2026-08-07T00:00:00Z",
-      "mandatory": false,
-      "url": "",
-      "sha256": "",
-      "size": 0
+      "releases": []
     },
     "linux-x64": {
-      "version": "0.0.0",
-      "notes": "bootstrap \u2014 no release yet",
-      "publishedAt": "2026-08-07T00:00:00Z",
-      "mandatory": false,
-      "url": "",
-      "sha256": "",
-      "size": 0
+      "releases": []
     }
   }
 }
