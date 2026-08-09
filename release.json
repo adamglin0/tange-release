@@ -17,6 +17,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha06/Decode-1.0.1-alpha06-mac-arm64.zip",
           "sha256": "57ba6ced48927ba321bb787501aae57109effdb2b22db8be106a2e8ca33337d2",
           "size": 108311029
+        },
+        {
+          "version": "1.0.1-alpha07",
+          "notes": "Version settings UX polish and macOS update signature team-id fix",
+          "publishedAt": "2026-08-09T02:29:10Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha07/Decode-1.0.1-alpha07-mac-arm64.zip",
+          "sha256": "fdb81359dcf0dc93e69593d6aa4048c5a83e59bbd8a37c778f924d73d406859d",
+          "size": 108386363
         }
       ]
     },
