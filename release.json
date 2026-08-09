@@ -4,7 +4,7 @@
       "releases": [
         {
           "version": "1.0.1-alpha05",
-          "notes": "Decode 1.0.1-alpha05 — macos-arm64 silent zip update",
+          "notes": "Decode 1.0.1-alpha05 \u2014 macos-arm64 silent zip update",
           "publishedAt": "2026-08-08T03:08:43Z",
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha05/Decode-1.0.1-alpha05-mac-arm64.zip",
           "sha256": "491a137e98f260a97dcd97946a830ca50b80b8fe267d40b82cbdd0209519ceb0",
@@ -33,6 +33,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha08/Decode-1.0.1-alpha08-mac-arm64.zip",
           "sha256": "dd9ba08858c057eb342a0719c1c09143387ec3f750fb980ca18c1dcd78eaf274",
           "size": 108388839
+        },
+        {
+          "version": "1.0.1-alpha09",
+          "notes": "Fix macOS silent update relaunch creating a new Dock tile.",
+          "publishedAt": "2026-08-09T03:20:11Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha09/Decode-1.0.1-alpha09-mac-arm64.zip",
+          "sha256": "0d0e6e08ed3e6ac5bc82bf8d2d31469b0da8b598622a3d2c8a1b56ed88053a7c",
+          "size": 108284868
         }
       ]
     },
