@@ -81,6 +81,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha14/Decode-1.0.1-alpha14-mac-arm64.zip",
           "sha256": "b809c3176f57f2999186a8298b20298e81b2d892f7a6d9938e38dc75fa5bc03f",
           "size": 110286381
+        },
+        {
+          "version": "1.0.1-alpha15",
+          "notes": "Compose Multiplatform 1.12.0-rc01",
+          "publishedAt": "2026-08-12T03:52:56Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha15/Decode-1.0.1-alpha15-mac-arm64.zip",
+          "sha256": "b7b680cfd239cb339dd9bc2c0f587236a7b671fc1c5a6f4b4950e26cffc3bd09",
+          "size": 110798432
         }
       ]
     },
