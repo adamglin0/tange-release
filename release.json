@@ -97,6 +97,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha16/Decode-1.0.1-alpha16-mac-arm64.zip",
           "sha256": "ec037c58330bdfed4265a7e2c9d4802ef5b2dd14798d1d80b8d5a562e5520d26",
           "size": 110732777
+        },
+        {
+          "version": "1.0.1-alpha17",
+          "notes": "Fix macOS update health handshake: write health before UI and drain leftover app processes before relaunch.",
+          "publishedAt": "2026-08-12T04:42:24Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha17/Decode-1.0.1-alpha17-mac-arm64.zip",
+          "sha256": "80a9ceca9fbbc1e7ed94d14db728a03cd7caa4a621dc8e78d24dbe89218cb3bc",
+          "size": 110729834
         }
       ]
     },
