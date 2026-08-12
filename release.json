@@ -121,6 +121,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc01/Decode-1.0.1-rc01-mac-arm64.zip",
           "sha256": "f728c532730e9cd309a5a5fe808419c999697149a7cf329c84c9f012fd7fd8d3",
           "size": 110707148
+        },
+        {
+          "version": "1.0.1-alpha20",
+          "notes": "Archive icon polish and model selection menu height tweak.",
+          "publishedAt": "2026-08-12T09:02:23Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha20/Decode-1.0.1-alpha20-mac-arm64.zip",
+          "sha256": "65e0f24136223b449774a200dbac4f7729676de6e8761924e5cb6b574e75dd8a",
+          "size": 110685076
         }
       ]
     },
