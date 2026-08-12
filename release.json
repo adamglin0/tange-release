@@ -113,6 +113,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-alpha18/Decode-1.0.1-alpha18-mac-arm64.zip",
           "sha256": "8d6dc730f18511de2f5ee37c5389bfb8c15d1d6ee8a04a3e0478f9a58361fb8c",
           "size": 110786599
+        },
+        {
+          "version": "1.0.1-rc01",
+          "notes": "First RC build. Same feature set as 1.0.1-alpha18; channel promoted to rc.",
+          "publishedAt": "2026-08-12T06:38:06Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc01/Decode-1.0.1-rc01-mac-arm64.zip",
+          "sha256": "f728c532730e9cd309a5a5fe808419c999697149a7cf329c84c9f012fd7fd8d3",
+          "size": 110707148
         }
       ]
     },
