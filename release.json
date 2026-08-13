@@ -137,6 +137,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc02/Decode-1.0.1-rc02-mac-arm64.zip",
           "sha256": "e18dfcf6eaacd6618e20de8b2bc074849b31db2256624f53e242237bd3bfaa68",
           "size": 110492942
+        },
+        {
+          "version": "1.0.1-rc03",
+          "notes": "\u2022 Settings dropdowns: extract SettingDropdown, list icon, TopEnd alignment, configurable gap\n\u2022 Allow selecting and copying skill detail text\n\u2022 Rename English settings titles to AGENTs SKILLs MCPs\n\u2022 Show spinner while refreshing provider model list\n\u2022 TipWrapper for provider actions and model capabilities; fix edge placement\n\u2022 Update app icon",
+          "publishedAt": "2026-08-13T04:13:13Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc03/Decode-1.0.1-rc03-mac-arm64.zip",
+          "sha256": "a368ae9a0c6c5b2769430ee74444d0b05228edfd23f349604249df0982fe6064",
+          "size": 110517816
         }
       ]
     },
