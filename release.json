@@ -145,6 +145,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc03/Decode-1.0.1-rc03-mac-arm64.zip",
           "sha256": "a368ae9a0c6c5b2769430ee74444d0b05228edfd23f349604249df0982fe6064",
           "size": 110517816
+        },
+        {
+          "version": "1.0.1-rc05",
+          "notes": "\u2022 Intro commands for first-run onboarding\n\u2022 Shortcut system for quick actions\n\u2022 Rebuild builtin file & shell tools with a shared output budget\n\u2022 Model Platform as a sealed desktop hierarchy\n\u2022 Fix orphaned tool calls before retrying a failed turn\n\u2022 Include jdk.charsets in packaged runtime so GBK sniffing works\n\u2022 Add memory guidance to the external system prompt\n\u2022 Add ChannelList bottom padding",
+          "publishedAt": "2026-08-19T04:20:31Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc05/Decode-1.0.1-rc05-mac-arm64.zip",
+          "sha256": "b003ae316e29e384dedf641e9b83a0fd25f6207a893314f528d91d4c2992690b",
+          "size": 112230057
         }
       ]
     },
