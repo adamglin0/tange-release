@@ -153,6 +153,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc05/Decode-1.0.1-rc05-mac-arm64.zip",
           "sha256": "b003ae316e29e384dedf641e9b83a0fd25f6207a893314f528d91d4c2992690b",
           "size": 112230057
+        },
+        {
+          "version": "1.0.1-rc06",
+          "notes": "\u2022 \u65b0\u589e\u516d\u79cd\u53ef\u9009\u62e9\u3001\u53ef\u5373\u65f6\u8bd5\u542c\u7684\u4f1a\u8bdd\u5b8c\u6210\u63d0\u793a\u97f3\n\u2022 \u4fee\u590d\u635f\u574f\u7684 Provider \u6216 Model \u5143\u6570\u636e\u5bfc\u81f4\u5217\u8868\u52a0\u8f7d\u5931\u8d25\u7684\u95ee\u9898\n\u2022 \u4fee\u590d Markdown \u76f8\u5bf9\u56fe\u7247\u8def\u5f84\u89e3\u6790\uff0c\u73b0\u6309\u5de5\u4f5c\u76ee\u5f55\u52a0\u8f7d\n\u2022 \u4fee\u590d\u65b0\u4f1a\u8bdd\u65e0\u6cd5\u8bb0\u4f4f\u6a21\u578b\u9009\u62e9\u7684\u95ee\u9898\n\u2022 \u4f18\u5316\u5931\u6548\u6a21\u578b\u7684\u663e\u793a\u548c Reasoning \u72b6\u6001\u52a8\u753b\n\u2022 \u6d88\u9664 JDK 25 \u4e0b JNA \u4e0e sun.misc.Unsafe \u7684\u542f\u52a8\u8b66\u544a",
+          "publishedAt": "2026-08-26T02:42:21Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc06/Decode-1.0.1-rc06-mac-arm64.zip",
+          "sha256": "c9274eb8646e33354b28e0c786ec9bf0576456dc452a6012f811be3b1a90d5d4",
+          "size": 112770961
         }
       ]
     },
