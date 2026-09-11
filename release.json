@@ -169,6 +169,14 @@
           "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc07/Decode-1.0.1-rc07-mac-arm64.zip",
           "sha256": "5ceaf179989ddfc2fbbed1c1b37e6a57971b032343b7a6202ddb20b89dc2043f",
           "size": 112186175
+        },
+        {
+          "version": "1.0.1-rc08",
+          "notes": "\u2022 \u66f4\u6362\u5e94\u7528\u56fe\u6807\u4e3a\u65b0\u7684 Genta \u56fe\u6807\n\u2022 \u5347\u7ea7 Compose Multiplatform \u5230 1.13.0\n\u2022 macOS \u62d6\u52a8\u7a97\u53e3\u8c03\u6574\u5927\u5c0f\u65f6\u6539\u7528 Skiko \u7684\u540c\u6b65 Metal \u6e32\u67d3\uff0c\u7f29\u653e\u66f4\u5e73\u6ed1\n\u2022 OpenCode Go \u7684\u4f1a\u8bdd\u8bf7\u6c42\u5e26\u4e0a x-opencode-session\uff0c\u56fa\u5b9a\u5230\u540c\u4e00\u4e0a\u6e38\uff0c\u63d0\u9ad8\u63d0\u793a\u7f13\u5b58\u547d\u4e2d",
+          "publishedAt": "2026-09-11T14:18:15Z",
+          "url": "https://github.com/adamglin0/tange-release/releases/download/1.0.1-rc08/Decode-1.0.1-rc08-mac-arm64.zip",
+          "sha256": "4fbb18381864fa748febf35fb1508d080cb19b92a15179ea44d4cfcc9f7cc420",
+          "size": 112439753
         }
       ]
     },
